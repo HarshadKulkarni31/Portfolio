@@ -3,6 +3,9 @@
         "username": "HarshadKulkarni31",
         "email": "kulharshad2006@gmail.com"
     },
+    "description": "Personal student portfolio hosted globally on AWS CloudFront",
+    "repo":"https://github.com/HarshadKulkarni31/Porfolio",
+    "allowExport": true,
     "records": {
         "CNAME": "harshadkulkarni31.github.io"
     }
